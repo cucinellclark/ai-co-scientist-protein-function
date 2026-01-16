@@ -4,6 +4,8 @@ This is a project for the [2025 NIAID BRC AI Codeathon](https://www.bv-brc.org/b
 
 **Project page:** https://niaid-brc-codeathons.github.io/projects/ai-co-scientist-protein-function/
 
+**AI Co-Scientist Github:** https://github.com/acadev/Jnana
+
 ## Overview
 
 Extending the Co-Scientist framework to build reasoning agents for protein function prediction using CEPI and BV-BRC datasets for priority pathogens.
